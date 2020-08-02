@@ -1,4 +1,4 @@
-import Model.*;
+import Model.snake.*;
 
 public class SnakeApp {
     public static void main(String[] args) {
